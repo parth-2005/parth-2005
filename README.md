@@ -1,7 +1,3 @@
-Here’s the updated `README.md` for your GitHub profile:
-
----
-
 # Hi there, I'm Parth! 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/parth-2005?label=Follow&style=social)](https://github.com/parth-2005)
