@@ -5,7 +5,7 @@ Here’s the updated `README.md` for your GitHub profile:
 # Hi there, I'm Parth! 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/parth-2005?label=Follow&style=social)](https://github.com/parth-2005)
-[![Website](https://img.shields.io/badge/Website-Portfolio-blue)](https://parth-2005.github.io)
+[![Website](https://img.shields.io/badge/Website-Portfolio-blue)](https://2005-parth.github.io/portfolio)
 
 ## 👨‍💻 About Me
 - 🌟 **Tech Enthusiast** | **Nyctophile** | **Technophile** | **Monophile**
@@ -41,6 +41,6 @@ Here’s the updated `README.md` for your GitHub profile:
 ![Parth's GitHub stats](https://github-readme-stats.vercel.app/api?username=parth-2005&show_icons=true&theme=radical)
 
 ## 🌐 Connect with Me
-- **Portfolio:** [parth-2005.github.io](https://parth-2005.github.io)
+- **Portfolio:** [parth-2005.github.io](https://2005-parth.github.io)
 - **Email:** [pjpanot260305@gmail.com](mailto:pjpanot260305@gmail.com)
 - **LinkedIn:** [linkedin.com/in/parth-2005](https://linkedin.com/in/parth-2005)
